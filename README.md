@@ -28,7 +28,7 @@ The  `Commands` are:
 #1. Using the `concert-this` command to display concert info from the Bands in town API.    
 
     (input)  node liri.js concert-this Leon Bridges
-![Results](/images/concert.PNG)
+![Results](/images/concert.png)
 
 ---
 
@@ -36,7 +36,7 @@ The  `Commands` are:
 
     (input)  node liri.js spotify-this-song river
 `(output) shown below:`
-![Results](/images/spotify.PNG)
+![Results](/images/spotify.png)
 
 ---
  
@@ -44,7 +44,7 @@ The  `Commands` are:
 
     (input)  node liri.js movie-this-song wackness
 `(output) shown below:`
-![Results](/images/movie.PNG)
+![Results](/images/movie.png)
 
 ---
 
@@ -52,10 +52,10 @@ The  `Commands` are:
 
     (input)  node liri.js do-what-it-says
  `(random.txt) shown below:`
- ![Results](/images/randomtxt.PNG)
+ ![Results](/images/randomtxt.png)
 
 `(output) shown below:`
-![Results](/images/dowhatitsays.PNG)
+![Results](/images/dowhatitsays.png)
  
  
 
